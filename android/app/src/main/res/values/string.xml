@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hireleap</string>
+    <string name="facebook_app_id">1238937486635525</string>
+    <string name="fb_login_protocol_scheme">fb1238937486635525</string>
+</resources>
